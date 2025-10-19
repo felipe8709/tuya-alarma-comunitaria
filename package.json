@@ -1,0 +1,10 @@
+{
+  "name": "tuya-hmac-service",
+  "version": "1.0.0",
+  "description": "Servicio HMAC para controlar dispositivos Tuya",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
